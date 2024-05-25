@@ -228,7 +228,7 @@ Cluster + same CEX deposit address + same on-chain activity. Without a doubt a s
 
 ## CLUSTER 4
 
-The first 9 addresses of the cluster share the same Binance deposit address 0xA2847183FDef870736C8ff1681b16a5521CdF9c5. The rest are linked to numerous addresses of the cluster.
+The first 9 addresses of the cluster share the same Kucoin deposit address 0xA2847183FDef870736C8ff1681b16a5521CdF9c5. The rest are linked to numerous addresses of the cluster.
 
 ```
 0x7d0faf59aa2c13be86ea7d08de31881372349ba4
