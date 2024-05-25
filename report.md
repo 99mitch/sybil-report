@@ -180,7 +180,7 @@ Cluster + same CEX deposit address + same on-chain activity. Without a doubt a s
 
 ## CLUSTER 3
 
-The first 10 addresses of the cluster share the same Binance deposit address 0x70D4282501F8951FeDe458ac53B7D4BBC5360483. The rest are linked to numerous addresses of the cluster.
+The first 12 addresses of the cluster share the same Binance deposit address 0x90D1574aDA5007266F9D9834Ee413BE1c5488B03. The rest are linked to numerous addresses of the cluster.
 
 ```
 0x5e0fdd8495eca7d5b966a66aa5f5cac5f441e9a1
