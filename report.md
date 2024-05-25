@@ -118,7 +118,7 @@ The address share the same CEX deposit address, are part of a cluster with multi
 
 The first 10 addresses of the cluster share the same Binance deposit address 0x70D4282501F8951FeDe458ac53B7D4BBC5360483. The rest are linked to numerous addresses of the cluster.
 
-````
+```
 0x237ea6a3840e895eec42bb2c7343d10c097db483
 0xb1c6b51cc745665740e77a37237ac506e1a7a179
 0xdf49886fe8f44f1358d30654d86c3b418d949fbe
