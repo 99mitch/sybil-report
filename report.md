@@ -31,6 +31,7 @@ This is a fresh address.
 <details>
 
 1. [Cluster 1](#cluster-1)
+2. [Cluster 2](#cluster-2)
 
 </details>
 
@@ -112,3 +113,63 @@ The addresses all have the same on-chain activity. For example, the 29/04, the s
 The addresses also all have similar scam tx recognized by debank.
 
 The address share the same CEX deposit address, are part of a cluster with multiple links between one another, and have the same on-chain activity. This is a big scale sybil operation, probably the result of scripts.
+
+## CLUSTER 2
+
+The first 10 addresses of the cluster share the same Binance deposit address 0x70D4282501F8951FeDe458ac53B7D4BBC5360483. The rest are linked to numerous addresses of the cluster.
+
+````
+0x237ea6a3840e895eec42bb2c7343d10c097db483
+0xb1c6b51cc745665740e77a37237ac506e1a7a179
+0xdf49886fe8f44f1358d30654d86c3b418d949fbe
+0x16fcd2c7a8d96e1f91e167d34db78f7f0db8ac7a
+0x6418122a235d6e7831aec936e79e1fd12d51ad6c
+0x2e2a422972472d9bf30ffe1513c4367f7ea20038
+0x40e592a8f5c967ac8cc00931e58e3398588b0d97
+0x4fe78dee13b94872de53ba4c65dd19dbd7da13db
+0xf5918270511997b484d592a3d7b89798fb348007
+0xdc2ca72397afb38b72294e658083c0a794bf68d5
+0xdffba37790141b5fe20146542834157cd8ad78c4
+0xbeb2e566eec5f05cf16cf9112768c21fab0c8db9
+0x0af322fffb89b878828211bdc9d4be874cc7017f
+0xb4eaa1996ab41f0502cb974bc7154128269d58d3
+0x316072ccbeee4f504a4030f9ce3561459b205868
+0x2bc9b27433846d505c75cd9bafaea5e6839d6bb9
+0x36e60f1f63a158ef441726c5a2ef84a75857c962
+0x356cc8ead33d302bed83f5fb62fd01e6bde29b2b
+0x60bd18e1bc4dd3f3cb5ba92b436bbe0cf5d0db0c
+0xccf302607b73fa3142cbbca11ad8eb8cb5d538ec
+0x981c796da09805f3dc54124ec397bac3cf6311c8
+0x8043088c341b6b8e906a415f2056a81e417f61df
+0xc749a97d4bd68b042e60cf6d39dd40b33824a997
+0x1163d2edd37bab505ce520b54554393155583f88
+0x1f55f5508dc75185d7d54ef839208ed7a3c4ca8d
+0xded2d3916455a840fbd012cb025f82ff23b1de14
+```
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/4ff78058-88c7-4776-8571-b1cd7ccc4ffc)
+
+The addresses have the same on-chain activity. Here we can observe the same interaction with Galxe approximately at the time :
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/1cde080e-db01-4c02-b223-519d87e1c145)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/57678fda-4acf-4ab4-982f-9b9c1f0a2b5f)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/7bee2bbb-66c1-4346-bf34-1cd96bea616c)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/3438de28-37de-4e52-b013-4ffcdf30bff5)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/b4faaac4-c6a3-41da-9031-d87d217a9819)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/3362a6b7-c9de-4fe5-b56c-884c69f5893b)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/39a8af43-f9e9-453b-9638-a95f2f3ece35)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/b08b4afc-df5d-45b0-85a7-c8085d388d71)
+
+
+Also here with the interaction done with Stargate and LayerZeroLabs :
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/fbc493e0-9e97-406d-931d-c193e4dd9252)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/9ea80373-83af-49c4-b04f-ae1dd0c830bc)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/1c28e484-3a5c-4614-8c29-b560ab1295e8)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/ebcdb864-d48e-4c48-b101-269fe3e40161)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/942fc77e-91d5-4f2f-b381-78f205808683)
+
+
+Cluster + same CEX deposit address + same on-chain activity. Without a doubt a sybil cluster.
+
+
