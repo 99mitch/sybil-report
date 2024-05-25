@@ -221,3 +221,59 @@ The addresses have the same on-chain activity. Their L0 is the same, probably du
 
 Cluster + same CEX deposit address + same on-chain activity. Without a doubt a sybil cluster.
 
+## CLUSTER 4
+
+The first 9 addresses of the cluster share the same Binance deposit address 0xA2847183FDef870736C8ff1681b16a5521CdF9c5. The rest are linked to numerous addresses of the cluster.
+
+```
+0x7d0faf59aa2c13be86ea7d08de31881372349ba4
+0x7576f8bdc643cdee38fc5f632d5fdd1d13450803
+0x29fec76ab80e47c7dc45193f9317567f67758411
+0x03adaf38829f8307099db5ea4ddf54919410e2f3
+0xc441b17978cbe90671b9d6e4014c323404f3fcc8
+0x6816bf1e88c5e0e8d3c45559f8733712f7a1012d
+0x5f3582b06b6697fd64e791ab7ace882fe66bc835
+0x4bcc72aece459f92b7095dc408a6d646fcce35cb
+0x14de75a716c6d75dc8bda719f381b6dbb113e995
+0x1bb1296bd63f3c50059f45065ca1ca006be5efe8
+0x5770b98e09d69ba91dd68d5cbf20d18826775b82
+0xbf18062443c8697ef6b3d3935c2d3a1440642635
+0xcb71a8f2387fb6250c445939b61243f0be2f345a
+0x5f0b726d9b98a0744fe19141fea973546cd009f9
+0xcc1c9902de1a716f8dc926461058444f49a39b50
+0xc7d978b8ac926eadd7c79587d3d6cdbe51a967cf
+0x6bbce026dc4cee027e8e33b83a44da150a49fea3
+0xd9be17108a0783f68464f2aa78510f40ba154f5b
+0x01e4683487849ca6002eefe16c5236e867493e30
+0xf7756e25081fd36a3a734bef77331581f6d61535
+0xbcf633e185089f46badc4920a7f368252b31da2c
+0x6bdc7a993085fdd1e77c7c61b8772162fba08cf5
+0xd1e00611cc8a8f7bc02ab1748f810e862701c908
+0x9824298f695ee57657cb0633444625e806c77770
+0x0000bbefde6e3b6613a4f021854cfbd6d3cd66b4
+```
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/bad9b266-4a39-4cb7-b722-bc698ea06bfd)
+
+The addresses have the same on-chain activity. Their L0 is the same, probably due to a script. For example, their latest L0 interaction is the same: Stargate transaction 26 days ago for every address. The same pattern happen over and over.
+<details>
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/bc759d2c-7950-4b98-a31c-393b35413c45)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/b4d7ee10-a4ad-4a3c-9ee1-1929464b3cdd)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/d328064b-63cc-401a-997a-3e2afac49f0d)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/8133026b-33ce-4944-beff-f5bc8c4f7149)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/4ddb03e6-0dfa-4b20-90b8-58d47408fc42)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/2d794417-d693-4ddf-bc21-10823c25f64b)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/46c862a8-2c81-4955-a474-648121d7f0aa)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/c4433b62-65b9-448e-937e-2b5ac855f984)
+
+
+</details>
+
+Moreover, They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/ce4d1f51-7a12-4ba1-afb0-328f6e8e58f4)
+
+
+Cluster + same CEX deposit address + same on-chain activity. Without a doubt a sybil cluster.
+
