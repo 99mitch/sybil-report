@@ -34,6 +34,8 @@ This is a fresh address.
 2. [Cluster 2](#cluster-2)
 3. [Cluster 3](#cluster-3)
 4. [Cluster 4](#cluster-4)
+5. [Cluster 5](#cluster-5)
+
 
 
 </details>
@@ -152,7 +154,7 @@ The first 10 addresses of the cluster share the same Binance deposit address 0x7
 
 ![image](https://github.com/99mitch/sybil-report/assets/163365834/4ff78058-88c7-4776-8571-b1cd7ccc4ffc)
 
-The addresses have the same on-chain activity. Here we can observe the same interaction with Galxe approximately at the time :
+The addresses have the same on-chain activity. Here we can observe the same interaction with Galxe approximately with the same timespan :
 
 <details>
 
@@ -279,4 +281,73 @@ Moreover, They have similar LZ Age (date of first L0 interaction), amount bridge
 
 
 Cluster + same CEX deposit address + same on-chain activity. Without a doubt a sybil cluster.
+
+## CLUSTER 5
+
+The first 11 addresses of the cluster share the same Binance deposit address 0xA4a3A63efDe3753f3a86986d6E08E046C7353406. The rest are linked to numerous addresses of the cluster.
+
+```
+0x5d7adb0d79846fcc2b6ffbda98f33adb4b00f2e7
+0x9f45f7f50e90337fa50c625db98ae584bc1dc48c
+0x65fc291a2252199a6dfac06fed2e5246db341ac0
+0x26914add47df18adbe372fc4d6f8d3ea97e7e063
+0x79fb1cbafdf2395980a649a86fd2afe275b0eed6
+0x3dc75d5e1693a3c27ba9a54a7de67d34c6694f8c
+0x67b98d282aec23fc4d52b41c755f22b31081ffa4
+0x65b740a41dba844e4de430095da76972e16f1602
+0xe8c907430e1ed83797e0a8bf1eda14a8087cac92
+0x7c5b381535b3170043ad444274086123757871d6
+0xf38b2abed6c38667a63240678cf84e119041d195
+0x082677a0ea5566b3e6b65af9dfb61f17aa7b73d5
+0xde009afccce855405e57f4342eb62c9a4520cf6f
+0x8a4ad70f227ef77ca371b6eb12445d6d52681850
+0x84db1c103066df7b9dd510397c8ade8b0e5999d0
+0xaee5666c82df7aad6c7f7e7538e631c9d0c89eb9
+0x69848a3b8ed8d1424a846c807a240538f0ff0197
+0x136c2b7118beb7bd7981360d36bb5010b5608f25
+0xfff84b5e92ac9fe353e2c0fd6ac2e42af390b865
+0xaa885b4bc2d2dd326bbe604d55d52421d0a72ea1
+0x456c55b4aed43928ff619007e25b847a9939e9cc
+0xaa7134be644fa155fc299132633d14fc81018c87
+0xa1c55dec3f08fbe6a8b6cf399bbe2d016150eca8
+0x7ff34da86a1b03a83e1f021c37b0b4ab6598f212
+0x3b11a9a33fb286eb564b387fc7daa8b8b154d949
+0x01fabc7e3ee0d830a134f4b744e6fdceb592f97b
+0x4568806f725fd5b96950194a87dea09d293bcb3c
+0x38c192d6056e8a7b1b91176435eb9b8657689ab8
+0x9da9fc9f85c70c029bcb1316cd162ed62a94f506
+0x2c6263cc7d914777a12461d622e2edf523885ab5
+0xa7a3d484b2229681214d21a08262ebb05b46946f
+0x26327d036cc08b93bcb9e475c8450ba8a3225daf
+0x3f82dab372a375285e0243583aebd088ee59d625
+0x5010e94232f3f2df4b303a759c4a8ed6b24c5309
+0xb328cfc34b3dee0e01182826a5405ac306151c36
+0xc9315fc369afd5a55689f033b4e6fe90d4da9a9d
+0x7078943ba34c0064f8e7ea40c368520e002a4575
+0xe8f4fcf52f76f82109327553945250c986c6d0f3
+```
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/94380a0d-8888-4fdb-bb0a-ba693ef92e2f)
+
+The addresses have the same on-chain activity. Here we can observe the same interaction with Stargate approximately with the same timespan :
+
+<details>
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/0e23bc07-7df4-4c90-a33d-6b4db530f41a)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/b4d7ee10-a4ad-4a3c-9ee1-1929464b3cdd)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/87b53191-272e-45ff-a749-86bc92fd2d6f)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/244f686b-ce06-4da9-89c0-82f59bec65d6)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/ca229c89-08bb-4ec1-9c02-12ced1e49d65)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/fde9558b-3aa2-4fc4-850b-85f4dc72c4b9)
+
+
+</details>
+
+Moreover, They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/be0c6700-3deb-46df-9615-36002be0f27a)
+
+
+Cluster + same CEX address + same activity accross +20 wallets to farm airdrop. This is surely a sybil cluster.
+
 
