@@ -1,5 +1,6 @@
 
-Please note that all cluster of that report are independent and have their very own description & argumentation. An issue per cluster would be a better option, but it is impossible as that many opened issues would result in my account being flagged for spam by Github.
+Please note that all cluster of that report are independent and have their very own manual description & argumentation.
+backup github to avoid raids : 
 
 # Detailed Methodology & Walkthrough
 
