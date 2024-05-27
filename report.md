@@ -4,19 +4,24 @@ backup github to avoid raids : https://github.com/foukara/report.md/blob/main/re
 
 # Detailed Methodology & Walkthrough
 
-After gathering as many hot wallet addresses and gas suppliers for several centralized exchanges (CEXs) such as Binance, Coinbase, Kucoin, Bybit, and OKX using blockchain explorers, a simple Dune SQL request was employed to collect around 2.5 million CEX deposit addresses. These are the addresses where users send assets to deposit into a CEX.
+Hot wallets and gas suppliers from major centralized exchanges (CEX) like Binance, Coinbase, Kucoin, Bybit, and OKX were gathered using blockchain explorers.
+Using a Dune SQL query, approximately 2.5 million CEX deposit addresses were collected. These are the addresses where users send assets to deposit into a CEX.
+Filtering and Clustering:
 
-Using Dune Dashboard again, I filtered these CEX deposit addresses to identify those that received funds from at least seven addresses that regularly interacted with LayerZero (using an unofficial Dune Dashboard).
+With a Dune Dashboard, CEX deposit addresses that received funds from at least seven addresses regularly interacting with Layer Zero were filtered.
+Clusters of active Layer Zero addresses sharing the same CEX deposit address were created, ranging from 7 to 300 addresses.
+Larger clusters were formed using a script, incorporating addresses that interacted with cluster addresses but not with the CEX deposit address. An address needed to be directly linked to at least four other cluster addresses to join.
+Clusters with fewer than 20 addresses (including the CEX deposit address) were discarded.
+First Layer of Detection/Proof:
 
-Clusters of 7-300 active LayerZero addresses sharing the same CEX deposit address were formed. A script then expanded these clusters by including addresses interacting with the cluster addresses but not directly with the CEX deposit address. To minimize false positives, an address needed to be linked to at least four other cluster addresses to join. Clusters with fewer than 20 addresses (21 including the CEX deposit address) were discarded.
+This automated process identified clusters with addresses sharing the same CEX deposit address, linked to at least four other cluster addresses.
+Despite being automated, this layer has a small percentage of false positives due to multiple interactions and common CEX deposit addresses.
+Second Layer of Detection/Proof:
 
-This initial detection/proof layer is fully automated, leveraging scripts to create clusters. Although these clusters are less common due to the requirement of multiple interactions and the common CEX deposit address, a small percentage of false positives remains.
-
-The second detection/proof layer involves manual verification. Each cluster in this report underwent thorough manual inspection to remove false positives and add on-chain arguments supporting the cluster's sybil nature. These on-chain arguments vary, such as addresses within a cluster executing identical transactions simultaneously with the same amounts, or showing similar transaction patterns for LayerZero activities. Resources like LayerZero Scan, Dune, Debank, Arkham, Etherscan, and others were extensively used.
-
-This manual verification, despite being time-consuming, ensures a high accuracy rate by minimizing false positives and demonstrating that the report is not merely a dump of addresses. The combination of automated clustering and manual verification, along with the consistent use of the same CEX deposit address and similar on-chain activities, provides robust detection with minimal false positives.
-
-The activity predating the snapshot was screened across 14 blockchains: Ethereum (endblock 19757726), Optimism (endblock 119326917), BSC (endblock 38236464), Polygon (endblock 56379454), Arbitrum (endblock 205653169), Gnosis (endblock 33677943), Linea (endblock 4059728), Scroll (endblock 5184468), Zksync (endblock 32656745), Moonbeam (endblock 6045324), Moonriver (endblock 6637617), Fantom (endblock 80127182), Base (endblock 13709885), and Celo (endblock 25273962).
+Each cluster underwent manual scanning to remove false positives and add on-chain arguments to the cluster description.
+On-chain arguments included executing the same transaction at the same time with the same amounts, similar transaction patterns for Layer Zero activities, etc.
+Resources used: LayerZero Scan, Dune, Debank, Arkham, Etherscan, among others.
+This manual process, though time-consuming, ensures the detection of Sybil clusters and minimizes false positives.
 
 Lastly, please note that Arkham diagrams in this report may often lack links, as Arkham only supports 7 out of these 14 blockchains.
 
