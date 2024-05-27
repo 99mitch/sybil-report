@@ -350,4 +350,61 @@ Moreover, They have similar LZ Age (date of first L0 interaction), amount bridge
 
 Cluster + same CEX address + same activity accross +20 wallets to farm airdrop. This is surely a sybil cluster.
 
+## CLUSTER 6
+
+The first 12 addresses of the cluster share the same Binance deposit address 0xDc14Cfa9294d1816781f8CFA04398D95d9aBf675. The rest are linked to numerous addresses of the cluster.
+
+```
+0x231466ee5a820e1802081ee4828f6673a400a2a1
+0xbdb0884f0a422843f8846869f1909fc6cf921b70
+0x0b24b6b5a2b1bac48904fea84b8bd23d16515c5b
+0x5a1b39f31e894729217fc10ee7ba1d602a56accd
+0xcb43410589a3fb3a2c31e9c6a118af5887d3a64d
+0x9668b5b5e5dd787bc84044929727fe8d44a659d8
+0xce70dfcb8126f9794c85f857ac5f68b042dad801
+0x28784a9d1d45ca2f31da678fd5b3091938b8598e
+0x9e16786929eecd46216115adad27dc9b9cca821d
+0xddeaa37a75573278fbf9fc51b03bd863db1b63f4
+0x735008aeaec303cdc3814bf3a0952a1aac2d7d37
+0xaf18c71487eec382c6cc6bf3284a08dcc9a87ce9
+0x50b2112ae316630decb1cf170e650b1253decf12
+0x542e21321e798724cdcb6bd88024f7eb5439ea48
+0x03d91f6df2e871bfdcaff863de3c2a9feaa391e1
+0xa656902a2c99fcfa61d6b40d8900f37a4daccf6f
+0xe44a5a0d512cc0542c759580c087307c14543cf8
+0x00cfc2ee6ba2c77ccb905d2dc795b5e6c10d12b5
+0x9c6050375d3e721e9ed127d1f8c0ad58f32ad624
+0x203d76528dd0f36ccfc3c400c20baec0c2bb98a7
+0x611a0d18c38fad11c2b1f67f3aca76da32682fcf
+0x1639baed28d1f76a347e81f92a890064c10105ae
+0x51858b79a725a5bf4de8aedbdab006f274578401
+0x94cc44233e1c5f5e51f817f88bff610a3ec4fc22
+0xf8e164a8121569ee85505491231a3c2c7ab09186
+0x2e690239a67c8f0805df0bffc7056ed067d8022d
+0xac94be38c5f72783e769feef92eb0e8eed65ba8c
+```
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/080b403d-f6d0-4913-8379-bbe116d91cc5)
+
+The addresses execute similar transaction at the same time to farm airdrop accross planty wallets. For example, they interacted with Stargate back and forth to lock STG with similar amounts during the same timespan.
+<details>
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/597076e1-225e-4ed0-a1dc-4978e86cc9c7)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/698c67d8-e061-43aa-8680-1e7b830112e9)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/2fe4d2e2-14ba-48e8-af27-cbec382e4f7c)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/1a3c4833-2630-4c5b-a8d5-34649b6d82c0)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/748c1a34-c63a-46d3-876b-5daeed43f8ee)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/db5cf645-450b-4cb5-9517-ced30045517b)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/6c7ad112-d842-4f82-87c5-17616f5d9ea6)
+
+
+</details>
+
+Moreover, They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/c2042f32-76b0-4a9f-a97c-344af5f59899)
+
+
+Cluster + same CEX address + same activity to farm airdrop. This is surely a sybil cluster.
+
 
