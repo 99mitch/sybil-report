@@ -460,42 +460,77 @@ Cluster + same CEX address + same adresses interactions pattern. This is surely 
 
 ## CLUSTER 8
 
-The first 10 addresses of the cluster share the same Binance deposit address 0xe9Cc55bCe5666F9d18b42b9AF5FC8EA24207CFAf. The rest are linked to numerous addresses of the cluster.
+The first 10 addresses of the cluster share the same OKX deposit address 0xe0e4c1b6Eda8E3406Be1c188e144E960205EBE84. The rest are linked to numerous addresses of the cluster.
 
 ```
 
-0x782adec215752c6ac21d7be4e016d40b1d21f800
-0xd5a4fefee79118af72b40e42e111b8e80aec5b23
-0xe69850780fd90e344d115e731cf6b8a248c45aa1
-0x75bb7ae27a5671913f42a30287de9c1aee090655
-0x8201667dc71a01ab2cbd9b007b671b46059991d5
-0x3e86279885ccdbe0815057d28cd9244cde1aa8f0
-0x4f7c7a7850cd5e5863977161c511584713bc0563
-0x14acaf63ad63e4eb2e204f2078484a7e08815494
-0xa45280b5c0c6f603bfeddc6f6096e5cc334ff407
-0x945f6c41516224ffef1f5c24f108b6ddd7e0c828
-0x47b648e55fd961aac00aee3d5b9133c2b44a7fda
-0xf5c6c34517fac674df2a701c2e7c6da78b253053
-0xff9354076ee2554337f6b669310d29b2ae432bc8
-0x64d66a1c493238ea5329e5b38dd87797461c7aa4
-0xdc403fb23cb37896fa033633bf2827a274b9c264
-0x668f32adb4eaed0d914b871d6959f4f3e201f1bf
-0x7b596c598f367452673d857407ff707c57bb87a7
-0x5dc3f6eac6c2438b5f83c35907d83899c2f87d06
-0xb5d340468ec794959ecb9521ae7fb3545f565c37
-0xabd04f68e67fa369f6c42cba1c64c9311cfd2ef0
-0x98760f43f662727acdc62f62bf84c1ccd0d666c0
-0xb5ef606b48ab62d5bc60bf2244052cdc267ef0bd
+0xeb8c666fd0583986a70264e8417da060efc6a0bd
+0x08c56fc2f230df3a6d4866ce256459aa8daeee37
+0x323401a2053c7494fa569d71c2757bc95f371be2
+0x74880c530bc43213b724fce037a54789b19eba36
+0x59a1234d72d16b1279eac2d52ba13ce5ab01f341
+0x986ea7bbbb42fa0f314eeec493eee1a42b68a8ca
+0xb8f407ae47e867ba0de607a5aedfc854a60da03e
+0x49917e9fdf5c46477ead5184687582df156251cb
+0x3de4780276d6d3667fc57f03f7457d128012e900
+0xd70d40b06dc869202216e4158e807333cf3a8d3c
+0x6491b25c2bccb96d117eb1bdc5a67ce619a2c0df
+0x2f10dd94850bb76ec929c4db8a0f43a9bdc91134
+0x3f92d252103b0836b5a06673acbc14096249ed5b
+0x59c7be2a9cb9f367033dd1c7d5531098b315b380
+0xf0fa35fa9b1f0e443c901b2e127cd8c1d0285262
+0x003851e5aca9167c1c0cfd09f73e64bb2768f631
+0x5d35822e0ce560e874317e96af39e2e72db51ad1
+0x5517d99568f5ce22ad6e445cc79bfc040b96778f
+0x0c15c72c07b791acc5fd53d86de484c786738cbf
+0xb6af5f2a8f05a1af50f180bf31e1ffa11bfe3ed6
+0x5a4a61d54151c3e07e984aaa2716d33ba1808023
 ```
 
 We can observe from the arkham modelization that the adresses are more than linked :
 
-![image](https://github.com/99mitch/sybil-report/assets/163365834/88c8a9c5-89c3-425e-b319-3a2b724e8714)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/9a4f336d-8957-4842-abe1-d1d613416800)
 
 They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
 
-![image](https://github.com/99mitch/sybil-report/assets/163365834/af3d705a-8707-4f70-b30e-c53d345d99c1)
+![image](https://github.com/99mitch/sybil-report/assets/163365834/9b4d2020-d4a7-42e1-88ca-2924e3c0613a)
 
 Cluster + same CEX address + same adresses interactions pattern. This is surely a sybil cluster.
 
+## CLUSTER 9
 
+The first 10 addresses of the cluster share the same OKX deposit address 0xe0e4c1b6Eda8E3406Be1c188e144E960205EBE84. The rest are linked to numerous addresses of the cluster.
+
+```
+
+0xf67b969da936b4733bc75541ed3901ecedcaf353
+0x4d4428b2d29080092842bca10edcf31b06d00c95
+0x1411bccec4001c0eb18de07b1973caba9b7058e6
+0x2f4c4a0080fb92bda321ff5cfd97d7f285a2f4ec
+0x2c3517f6a15944d3adb960f0d1c5dd475b252bc2
+0x8a6bf259bd79b03e069a32df22727b55570f8b35
+0xc476fdbaa63682d23bf8fcda9e9de59affb9153e
+0x153eea2d6a7cf03c2c229a19bccb8571182596f5
+0x5abdc9108087fa8c8a3b2eab94a3daf23b30c012
+0xc3e65dede3aee84e8877c1646e2cee5aa22068fa
+0x8385452ba02a588dfe4753544995d688c7fdd1f5
+0xca85ef9af5f64eea898eb78dcc11aec3597a7b41
+0x66e8bd359d576c4703096679753b8754e45577b8
+0x892676e69f4912ff6ccfcdf3026254715cf64080
+0xfcb9d6d9bc04361e7a69efd29d7d93856a81753c
+0x8857535a6f35ffb94a7d2b4432424e52defcce71
+0x7c9842d9e619ce85392855467cac761e0ac9b103
+0xc25d4e71c3e2313ac70d5daaf2a3ffb57711a19b
+0x5eca494f77ea7cb7ff7e3656de7104f391eaf100
+0xd0e9c403bc33b79644564a1c04c273dad2517370
+```
+
+We can observe from the arkham modelization that the adresses are more than linked :
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/cc9d58a0-67d1-4ddb-bedf-5cba116f9871)
+
+They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/34b48860-437e-4d48-b21f-2887656a25b4)
+
+Considering the cluster, the usage of the same CEX deposit address and the exact same on-chain behavior, there is no doubt this is an industrial scale sybil cluster managed with a script.
