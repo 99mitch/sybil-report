@@ -1,4 +1,4 @@
-Please note that all cluster of that report are independent and have their very own manual description & argumentation.
+Please note that all cluster of that report are independent and have their very own manual description & argumentation. Inspired by bryan's report posted on twitter.
 backup github to avoid raids : https://github.com/foukara/report.md/blob/main/report.md
 
 
