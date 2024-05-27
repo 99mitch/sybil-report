@@ -35,7 +35,10 @@ This is a fresh address.
 3. [Cluster 3](#cluster-3)
 4. [Cluster 4](#cluster-4)
 5. [Cluster 5](#cluster-5)
-
+6. [Cluster 6](#cluster-6)
+7. [Cluster 7](#cluster-7)
+8. [Cluster 8](#cluster-8)
+9. [Cluster 9](#cluster-9)
 
 
 </details>
