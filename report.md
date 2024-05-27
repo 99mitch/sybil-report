@@ -1,5 +1,6 @@
 Please note that all cluster of that report are independent and have their very own manual description & argumentation.
-backup github to avoid raids : 
+backup github to avoid raids : https://github.com/foukara/report.md/blob/main/report.md
+
 
 # Detailed Methodology & Walkthrough
 
