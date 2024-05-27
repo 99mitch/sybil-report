@@ -407,4 +407,95 @@ Moreover, They have similar LZ Age (date of first L0 interaction), amount bridge
 
 Cluster + same CEX address + same activity to farm airdrop. This is surely a sybil cluster.
 
+## CLUSTER 7
+
+The first 12 addresses of the cluster share the same OKX deposit address 0xaF2E326D4C89c8e9e59FF170F451ce306cb60D42. The rest are linked to numerous addresses of the cluster.
+
+```
+0xa2468ae73dda2aba7ea11ec97d35410e5dddcd84
+0x68141d2a9658d1b58592bcdf81b2976e43537b8f
+0x4f4c3ab2c02733e65742aec39af49f0ab80dfe15
+0xfcb59a8c5d5be3b514ebcbaf71567fd2bd4bffcc
+0xea596320baba2112398b281b79aff1a9a6b07656
+0x7e79ccc87f08969cdf3e97ad6529ab5a2c0576ef
+0x4b15a92c77d290961c99df629b7ab94fca144c29
+0x37a213ab3edc49f82674fb98159e3609c6812ec3
+0x1b27c88ce8ddac32e5cd4dcbaecf67d4c8fdee49
+0x6fa50e6f0027222582080a20149d0bff9a6842ed
+0x2c6802060c60162c0bf45e3df533415c49c7c0ba
+0x90f044e97d67e7fa450b5fa56d7fd65bdd199c6f
+0xe4f15252d4d3d9d8eb740dd6619a3f7d431df3a1
+0x24781c9adba5e4ab8aedaf82f1e6a0018f1de350
+0xbb41a00fe950fd88fe556343fc4e345f3ef4e1eb
+0xfdfd36b8c94c1f36adcf2318d1250434f5c359d7
+0x24fd52b9a97ee5fa4bd4d02e2ceb22af3f786d45
+0xcf7e9d3136c6b6597eec2c32e5243d815c211422
+0xe9ec9f7233862462a1d007b8df12b60a961578ab
+0x5ac2affb99437a6bc3a9df539fc3146f029356bb
+0x84d31cbfa184746acf08aaf7b5ea95cf50d06f4a
+0x7df61326a523ae6370a7c7e70da904d86b006d93
+0x61a30247e119daf8b24f507ab81ab421b27b17c3
+0x58962f05b8503f3ca1737d52b37e4c96cd1e581d
+0x5f6f1a3bea5d366721105338ef0ece97c12b4ae8
+0x430bd9aeed2c4e409b8742bc27dcc9df398eafe7
+0x672a31d93d2d02fe4c7396a01b0b01e1b6485630
+0xe9ffb19109f547e8e9ce546daf29aaefe2ef66de
+0x9844820f0e8d6ca6fab74133d820e5864b1e1c19
+0xad3454093a99e34990ccafe195091d4f70f50e5f
+0xa6790b9829898eb407cbefddd2ea46adb8841ef0
+0x4103d2fa741316fa36fea82c446dd256ab543c13
+0x113d3a76f43df30c84f14fa168a2d428b29979bc
+0x62be51149a6bb9fe7de7ff4ebfa5ab6a461351e2
+```
+
+We can observe from the arkham modelization that the adresses are more than linked :
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/cdda65cc-50e6-4725-b949-28dc156dc84b)
+
+They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/1a1b85ac-2988-40b9-b914-462cf72e8da8)
+
+Cluster + same CEX address + same adresses interactions pattern. This is surely a sybil cluster.
+
+## CLUSTER 8
+
+The first 10 addresses of the cluster share the same Binance deposit address 0xe9Cc55bCe5666F9d18b42b9AF5FC8EA24207CFAf. The rest are linked to numerous addresses of the cluster.
+
+```
+
+0x782adec215752c6ac21d7be4e016d40b1d21f800
+0xd5a4fefee79118af72b40e42e111b8e80aec5b23
+0xe69850780fd90e344d115e731cf6b8a248c45aa1
+0x75bb7ae27a5671913f42a30287de9c1aee090655
+0x8201667dc71a01ab2cbd9b007b671b46059991d5
+0x3e86279885ccdbe0815057d28cd9244cde1aa8f0
+0x4f7c7a7850cd5e5863977161c511584713bc0563
+0x14acaf63ad63e4eb2e204f2078484a7e08815494
+0xa45280b5c0c6f603bfeddc6f6096e5cc334ff407
+0x945f6c41516224ffef1f5c24f108b6ddd7e0c828
+0x47b648e55fd961aac00aee3d5b9133c2b44a7fda
+0xf5c6c34517fac674df2a701c2e7c6da78b253053
+0xff9354076ee2554337f6b669310d29b2ae432bc8
+0x64d66a1c493238ea5329e5b38dd87797461c7aa4
+0xdc403fb23cb37896fa033633bf2827a274b9c264
+0x668f32adb4eaed0d914b871d6959f4f3e201f1bf
+0x7b596c598f367452673d857407ff707c57bb87a7
+0x5dc3f6eac6c2438b5f83c35907d83899c2f87d06
+0xb5d340468ec794959ecb9521ae7fb3545f565c37
+0xabd04f68e67fa369f6c42cba1c64c9311cfd2ef0
+0x98760f43f662727acdc62f62bf84c1ccd0d666c0
+0xb5ef606b48ab62d5bc60bf2244052cdc267ef0bd
+```
+
+We can observe from the arkham modelization that the adresses are more than linked :
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/88c8a9c5-89c3-425e-b319-3a2b724e8714)
+
+They have similar LZ Age (date of first L0 interaction), amount bridged, contract count, interacted source chains, Unique Active Days etc...
+
+![image](https://github.com/99mitch/sybil-report/assets/163365834/af3d705a-8707-4f70-b30e-c53d345d99c1)
+
+Cluster + same CEX address + same adresses interactions pattern. This is surely a sybil cluster.
+
 
